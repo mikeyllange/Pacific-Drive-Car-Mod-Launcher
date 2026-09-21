@@ -1,4 +1,5 @@
 Description
+
 This mod allows you to choose between the three vehicles created by Dutch2049 and the vanilla vehicle. It simplifies the process by eliminating the need to uninstall or toggle mods via Nexus. It’s just an easy way to play with the vehicle you want. 
 
 Installation instructions
@@ -19,10 +20,11 @@ Extract the contents of my mod directly into the game's root folder, then place 
 Finally, launch the game through Steam as usual using my vehicle selection launcher!
 
 Main features
-Describe the core features of your mod
-This mod launcher lets you instantly switch between the DeLorean mod, the Ferrari mod, or the vanilla game. It remembers your last selection and automatically launches the game after a 5-second countdown. The required files are installed before launch and automatically cleaned up when you exit the game.
+
+This mod launcher lets you instantly switch between the DeLorean mod, the Ferrari mod, the Falcon XB mod, or the vanilla game. It remembers your last selection and automatically launches the game after a 5-second countdown. The required files are installed before launch and automatically cleaned up when you exit the game.
 
 Shout outs
+
 A huge thank you to Dutch for these two incredible mods!
 Een enorme dank aan Dutch voor deze twee geweldige mods!
 
