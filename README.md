@@ -13,15 +13,12 @@ Download my mod and Dutch's three mods, choosing either the DLC or non-DLC versi
 [FURIOUS DRIVE - 1973 Ford Falcon XB at Pacific Drive Nexus - Mods and community](https://www.nexusmods.com/pacificdrive/mods/178)
 
 Go to your game's root folder:
-
 \SteamLibrary\steamapps\common\Pacific Drive
 
 Rename the original game executable:
-
 PenDriverPro.exe to PenDriverPro2.exe
 
 Extract the contents of my mod directly into the game's root folder, then place Dutch2049's mods into the Mods folder located here:
-
 \SteamLibrary\steamapps\common\Pacific Drive\Mods
 
 Finally, launch the game through Steam as usual using my vehicle selection launcher!
