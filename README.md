@@ -1,5 +1,5 @@
 Description
-This mod allows you to choose between the two vehicles created by Dutch2049 and the vanilla vehicle. It simplifies the process by eliminating the need to uninstall or toggle mods via Nexus. It’s just an easy way to play with the vehicle you want. 
+This mod allows you to choose between the three vehicles created by Dutch2049 and the vanilla vehicle. It simplifies the process by eliminating the need to uninstall or toggle mods via Nexus. It’s just an easy way to play with the vehicle you want. 
 
 Installation instructions
 Download my mod and Dutch's three mods, choosing either the DLC or non-DLC version:
@@ -31,4 +31,4 @@ Player Quarters at Pacific Drive Nexus - Mods and community Dutch2049
 Bigger Stacks and Smaller tools for 1.15.0 at Pacific Drive Nexus - Mods and community Dutch2049
 Repair Vault boy at Pacific Drive Nexus - Mods and community Sirgalahad172
 
-Small note: please be careful with your save files. I recommend using a separate save for each vehicle to avoid any potential save corruption or unexpected issues. That said, everything works well with Dutch’s two cars
+Small note: please be careful with your save files. I recommend using a separate save for each vehicle to avoid any potential save corruption or unexpected issues. That said, everything works well with Dutch’s three cars
